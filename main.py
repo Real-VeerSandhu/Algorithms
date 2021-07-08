@@ -10,5 +10,8 @@ def bubble_sort(x):
     
     return x
 
+sample_list = [249, 99, 2233, 22, 1, 3, 299, 54]
 
+out = bubble_sort(sample_list)
 
+print(out)
